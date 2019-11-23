@@ -1,0 +1,14 @@
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\bin\Debug\GoogleSearchParser.exe.config
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\bin\Debug\GoogleSearchParser.exe
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\bin\Debug\GoogleSearchParser.pdb
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.csprojAssemblyReference.cache
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.Form1.resources
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.Properties.Resources.resources
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.csproj.GenerateResource.cache
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.exe
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.pdb
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.csproj.CopyComplete
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\bin\Debug\WebDriver.dll
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\bin\Debug\WebDriver.xml
+D:\MyFolder\C#\Freelance projects\GoogleSearchParser\GoogleSearchParser\obj\Debug\GoogleSearchParser.csproj.ResolveComReference.cache
